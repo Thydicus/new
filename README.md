@@ -1,3 +1,3 @@
 # Using for Nostr NIP-05 Validation.
 
-![Image](/new/docs/assets/HoodieBitcoin.jpg)
+![Image](/least-github-pages/assets/HoodieBitcoin.jpg)
